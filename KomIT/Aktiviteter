@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<style>
+    body, html {
+        height: 100%;
+        margin: 0%;
+    }
+    .background {
+        background-image: url("https://media.istockphoto.com/id/1355549849/vector/subtle-vector-seamless-pattern-with-small-linear-triangles-modern-background.jpg?s=612x612&w=0&k=20&c=ggPvBUECCG3X_YwhLmaIS1Pnbr_7tzpDL29wFkVIgSY=");
+        height: 100%;
+        opacity:100%;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style>
+<head>
+</head>
+
+
+</html>
